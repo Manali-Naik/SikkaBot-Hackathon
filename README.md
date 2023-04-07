@@ -1,4 +1,7 @@
 # Bot Builders -Hackathon Report
+### Member 1: Manali Mahesh Naik (manali.naik@sikka.ai)
+### Member 2: Jahnavi Shivaprasanna jahnavi.shivaprasanna@sikka.ai
+### Member 3: Shashiraj Walsetwar (shashiraj.walsetwar@sikka.ai)
 
 ## This readme file provides instructions on how to run a Flask application.
 
@@ -21,7 +24,7 @@ Change the branch from master to Final_Version1.0 using command:
 
 Navigate to the project directory:
 
-    cd "Flask App"
+    cd "SikkaBot"
 
 Create a new virtual environment using command:
 
@@ -49,4 +52,4 @@ Type a Question into the chat window and press "Enter" to send it to the chatbot
 
 ## Conclusion
 
-That's it! You now have a working Flask chatbot for Sikka.ai running on your local machine. Feel free to ping me or email us at @sikka.ai if you ran into any issue or would require additional information.
+That's it! You now have a working Flask chatbot for Sikka.ai running on your local machine. Feel free to ping us or email us at above mentioned ID, if you ran into any issue or would require additional information.
