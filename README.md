@@ -1,4 +1,4 @@
-# SikkaBot-Hackathon Report
+# Bot Builders -Hackathon Report
 
 ## This readme file provides instructions on how to run a Flask application.
 
